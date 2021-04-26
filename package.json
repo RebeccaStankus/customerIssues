@@ -1,0 +1,22 @@
+{
+  "name": "dj",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "audio-decode": "^1.4.0",
+    "audio-format": "^2.3.2",
+    "convert": "^1.8.3",
+    "hifi-spatial-audio": "^0.9.0",
+    "jose": "^3.11.5",
+    "pcm": "^1.0.3",
+    "wrtc": "^0.4.7",
+    "yargs": "^16.2.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
