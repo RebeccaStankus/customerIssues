@@ -1,22 +1,28 @@
 {
-  "name": "dj",
+  "name": "customerissues",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RebeccaStankus/customerIssues.git"
+  },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RebeccaStankus/customerIssues/issues"
+  },
+  "homepage": "https://github.com/RebeccaStankus/customerIssues#readme",
   "dependencies": {
     "audio-decode": "^1.4.0",
     "audio-format": "^2.3.2",
-    "convert": "^1.8.3",
-    "hifi-spatial-audio": "^0.9.0",
-    "jose": "^3.11.5",
-    "pcm": "^1.0.3",
+    "hifi-spatial-audio": "^1.0.0",
+    "jose": "^3.11.6",
+    "pcm-convert": "^1.6.5",
     "wrtc": "^0.4.7",
-    "yargs": "^16.2.0"
-  },
-  "devDependencies": {},
-  "description": ""
+    "yargs": "^17.0.0"
+  }
 }
